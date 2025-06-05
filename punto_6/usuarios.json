@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "nombre": "Alejandro",
+    "ciudad": "leticia"
+  },
+  {
+    "id": "2",
+    "nombre": "Luis",
+    "ciudad": "Bogota"
+  },
+  {
+    "id": "3",
+    "nombre": "Maria",
+    "ciudad": "Sincelejo"
+  },
+  {
+    "id": "4",
+    "nombre": "Dario",
+    "ciudad": "Bucaramanga"
+  },
+  {
+    "id": "5",
+    "nombre": "Jose",
+    "ciudad": "Bogota"
+  }
+]
